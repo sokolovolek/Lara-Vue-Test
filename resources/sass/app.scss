@@ -1,0 +1,21 @@
+/*=========================================================================================
+  File Name: app.scss
+  Description: Write your custom scss
+  ----------------------------------------------------------------------------------------
+  Item Name: Vuesax Admin - VueJS Dashboard Admin Template
+  Author: Pixinvent
+  Author URL: hhttp://www.themeforest.net/user/pixinvent
+==========================================================================================*/
+
+//@import 'main';
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "~bootstrap/scss/bootstrap";
+@import "vuexy/variables";
+@import "vuexy/customClasses";
+
+@import "vuexy/fixesVuesax";
+@import "vuexy/components/vxAutoSuggest.scss";
+@import "vuexy/components/vxInputGroup.scss";
